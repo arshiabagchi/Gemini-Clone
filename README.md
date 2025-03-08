@@ -24,7 +24,11 @@ The **Gemini Clone** is a web-based AI chatbot built using **HTML, CSS, and Java
 - Deploy the project online for public accessibility.
 
 ## Screenshots
-_(Add screenshots here to showcase the UI and functionality)_
+
+![WhatsApp Image 2025-03-09 at 01 23 57_b7f60530](https://github.com/user-attachments/assets/b372d71c-2376-4d81-801a-a95e935b29ca)
+![WhatsApp Image 2025-03-09 at 01 23 57_2f37c38d](https://github.com/user-attachments/assets/99dc27a3-1feb-4d02-ad1b-1a66cafae2b9)
+
+
 
 ---
 
